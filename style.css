@@ -1,0 +1,197 @@
+
+img{
+    height: 150px;
+    width: 425px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+span{
+    color: rgba(255, 255, 0, 0.781);
+}
+button{
+    width:45px;
+    height: 35px;  
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.795);
+    background-color: #2b5b84;
+    border-color: rgba(204, 200, 200, 0.897);
+}
+input{
+    width : 200px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: grey;
+    display: inline-block;
+    vertical-align: top;
+    border-color: rgba(204, 200, 200, 0.897);
+}
+.container{
+    width: 970px; /*do not change this value*/
+    height: 1050px;
+    margin: 0px auto;
+    background-color:#3776ab; /*do not change this color*/
+}
+.page_header{
+    width: 955px;
+    height: 150px;
+    padding-left: 15px;
+}
+.preferences{
+    width: 425px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left:40px;
+}
+.preferences p{
+    font-size: 14px;
+    margin-left: 250px;
+    color: rgba(255, 255, 255, 0.795);
+}
+.search{
+    width: 280px;
+    height: 50px;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-left: 25px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.589);
+}
+.menu{
+    width: 830px;
+    height: 80px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color:#2b5b84;
+}
+.menu a{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right:20px;
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.info{ /*remove this class, not needed*/
+    width: 970px;
+    height: 350px;
+    background-color: #3776ab;
+}
+.leftNav{
+    width: 230px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+}
+.leftNav li{
+   color: rgba(255, 255, 0, 0.781);
+   text-align: center;
+   line-height: 30px;
+   list-style: none;
+}
+.leftNav a{
+    color: rgba(255, 255, 255, 0.795);
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.history{
+    width: 570px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+.about{
+    text-align: center;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 255, 0.795);
+}
+.quotes{
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 0, 0.514);
+}
+.author{
+    font-size: 16px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.795);
+}
+.description{
+    width: 970px;
+    height: 350px;
+    background-color:white;
+}
+.manual{
+    width: 320px;
+    height: 270px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    vertical-align: top;
+    border-top: 3px solid #388ed4;
+}
+.applications{
+    width: 320px;
+    height: 270px;
+    margin-left: 75px;
+    margin-top: 50px;
+    display: inline-block;
+    vertical-align: top;
+    border-top: 3px solid #388ed4;
+}
+#package{
+    color: #388ed4;
+}
+h3{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.userDescription{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 15px;
+    text-align: center;
+}
+.list li{
+    text-align: center;
+    list-style-type:square;
+}
+.list a{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19px;
+    list-style-type:square;
+    color: #388ed4;
+}
+.footer{
+    width: 970px;
+    height: 100px;
+    background-color: #3776ab;
+}
+.footer p{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 255, 0.76);
+}
